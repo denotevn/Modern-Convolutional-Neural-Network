@@ -1,4 +1,4 @@
-env/
+venv/
 tuanenvGPU/
 Book/
 .ipynb_checkpoints/
